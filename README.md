@@ -2,7 +2,7 @@
 
 ---
 
-We first release the prediction maps, and the code and model weights will be made available after the paper is accepted.
+We first release the prediction maps, the code and model weights will be made available after the paper is accepted.
 
 | Task | Saliency Maps |  Models |
 | --- | --- | --- |
