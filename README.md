@@ -8,9 +8,9 @@ This project provides the code and results for 'LESOD: Lightweight and Efficient
 # Environments
 
 ```bash
-conda create -n lesod python=3.9.18
+conda create -n lesod python=3.9.20 -y
 conda activate lesod
-conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
+pip install torch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirements.txt
 ```
 
