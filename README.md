@@ -2,7 +2,7 @@
 
 # LESOD
 
-This project provides the code and results for 'LESOD: Lightweight and Efficient Network for RGB-D Salient Object Detection'. You can reproduce our results by following steps.
+This project provides the code and results for 'LESOD: Lightweight and Efficient Network for RGB-D Salient Object Detection'. You can reproduce our results by following the steps.
 <hr>
 
 # Environments
