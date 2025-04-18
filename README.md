@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 Note that in the depth maps of the raw data above, the foreground appears white.
 
-# Training & Testin
+# Training & Testing
 
 - Train the MAGNet:
     1. Download the pretrained EdgeNeXt and MobileNetV3 pth from [Baidu](https://pan.baidu.com/s/11bNtCS7HyjnB7Lf3RIbpFg?pwd=bxiw) / [Google Drive](https://drive.google.com/file/d/1mJsIvMjmoOEPrLp5-CxcuFwNk3vAa8E5/view?usp=sharing), and put them under `ckps/`.
