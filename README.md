@@ -23,11 +23,11 @@ Note that in the depth maps of the raw data above, the foreground appears white.
 
 # Training & Testing
 
-- Train the MAGNet:
+- Train the LESOD:
     1. Download the pretrained EdgeNeXt and MobileNetV3 pth from [Baidu](https://pan.baidu.com/s/11bNtCS7HyjnB7Lf3RIbpFg?pwd=bxiw) / [Google Drive](https://drive.google.com/file/d/1mJsIvMjmoOEPrLp5-CxcuFwNk3vAa8E5/view?usp=sharing), and put them under `ckps/`.
     2. Modify the data path in [`train_Net.py`](https://github.com/mingyu6346/LESOD/blob/main/train_Net.py) according to your data path.
     3. Run `python train_Net.py`
-- Test the MAGNet:
+- Test the LESOD:
     1. Modify the `test_path` path in [`test_Net.py`](https://github.com/mingyu6346/LESOD/blob/main/test_Net.py) according to your data path.
     2. Run `python test_Net.py`
 
