@@ -49,6 +49,18 @@ The implementation of this project is based on the codebases below. <br>
 - [EdgeNeXt](https://github.com/mmaaz60/EdgeNeXt) <br>
 - [MobileNetV3](https://arxiv.org/abs/1905.02244) <br>
 
+# Citation
+
+```bash
+@article{ZHONG2026112103,
+title = {LESOD: Lightweight and efficient network for RGB-D salient object detection},
+journal = {Pattern Recognition},
+volume = {171},
+pages = {112103},
+year = {2026},
+issn = {0031-3203}}
+```
+
 # Contact
 
 Feel free to contact me if you have any questions: (mingyu6346 at 163 dot com)
