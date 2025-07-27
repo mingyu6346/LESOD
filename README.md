@@ -58,7 +58,10 @@ journal = {Pattern Recognition},
 volume = {171},
 pages = {112103},
 year = {2026},
-issn = {0031-3203}}
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2025.112103},
+author = {Mingyu Zhong and Jing Sun and Fasheng Wang and Fuming Sun}
+}
 ```
 
 # Contact
